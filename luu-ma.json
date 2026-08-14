@@ -1,5 +1,4 @@
 {
-  "enabled": true,
   "redirects": {
     "199-2": "xcrot.me",
     "191-2": "mesalocksmith.co",
@@ -20,7 +19,7 @@
     "227-2": "www.planeshift.io",
     "237-2": "kfhm.me",
     "33-2": "asianporn.me",
-    "188-2": "nodo-sports.app",
+    "188-2": "https://nodo-sports.app",
     "178-2": "kfhm.me",
     "222-3": "hitclub-bing.vip",
     "66-2": "schilderscombinatielaasauke.nl",
@@ -52,5 +51,6 @@
     "200-2": "grabdealz.in",
     "213-3": "uflive1.vip",
     "204-2": "ko66app.red"
-  }
+  },
+  "updated_at": "2026-08-14T17:57:24.695Z"
 }
